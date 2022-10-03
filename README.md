@@ -37,11 +37,15 @@ Currently, I'm a M.S. & Ph.D. student at Laboratory of Advanced Imaging Technolo
 |Title|Slide|Video|
 |------|---|---|
 |Come-Closer-Diffuse-Faster: Accelerating Conditional Diffusion Models for Inverse Problems through Stochastic Contraction|[File](https://docs.google.com/presentation/d/15cMU656TrXvlJeF1BamSmH4KPbd7a317/edit?usp=sharing&ouid=103870560005201081411&rtpof=true&sd=true)|[Link](https://www.youtube.com/watch?v=HJ0AHZuGSZI)|
-|Improving GAN Equilibrium by Raising Spatial Awareness|추가예정|추가예정|
-|Visual attribute transfer through deep image analogy|추가예정|Private|
-|MMD GAN: Towards Deeper Understanding of Moment Matching Network|추가예정|Private|
-|Generative Moment Matching Networks|추가예정|Private|
-|GANs can play Lottery Tickets too|추가예정|Private|
+|Improving GAN Equilibrium by Raising Spatial Awareness|[File](https://docs.google.com/presentation/d/1tAv0hbFKUjlvUxapkS8TH3gcnM3f68fl/edit?usp=sharing&ouid=107867469252759244961&rtpof=true&sd=true)|추가예정|
+|Visual attribute transfer through deep image analogy|[File](https://docs.google.com/presentation/d/1NtUOSyo9Sruncl6FB0MPqfmcK6PgAn6q/edit?usp=sharing&ouid=107867469252759244961&rtpof=true&sd=true)|Private|
+|MMD GAN: Towards Deeper Understanding of Moment Matching Network|[File](https://docs.google.com/presentation/d/12V0VHQxSAKsgfluVbk8GaNm-CgtmHHGv/edit?usp=sharing&ouid=107867469252759244961&rtpof=true&sd=true)|Private|
+|Generative Moment Matching Networks|[File](https://docs.google.com/presentation/d/18ZVvnGpKsSURdo_UuNOppKr2x5YD8fgH/edit?usp=sharing&ouid=107867469252759244961&rtpof=true&sd=true)|Private|
+|GANs can play Lottery Tickets too|-|Private|
+|Revisiting Random Channel Pruning for Neural Network Compression|[https://docs.google.com/presentation/d/15WkNHDOLQ1ZHq6zn9qG0opNqdeUnPQ6U/edit?usp=sharing&ouid=107867469252759244961&rtpof=true&sd=true)|Private|
+|Revisiting Discriminator in GAN Compression - A Generator-discriminator Cooperative Compression Scheme|[File](https://docs.google.com/presentation/d/1x9hfJaC4HUVcEG6ucCEsAMlzo1qLSI8y/edit?usp=sharing&ouid=107867469252759244961&rtpof=true&sd=true)|-|
+|Content-Aware GAN Compression|[https://docs.google.com/presentation/d/10OSjX5MaLDabxmK5YPFCeUZjf4vXubXr/edit?usp=sharing&ouid=107867469252759244961&rtpof=true&sd=true)|-|
+|Deep Image Prior|[File](https://docs.google.com/presentation/d/196asIhtbejvRo9pMeOBSfLyz6uzfDtQe/edit?usp=sharing&ouid=107867469252759244961&rtpof=true&sd=true)|-|
 
 ## Experience
 ### 창의자율과제 - 울산과학기술원(Self-research challenges program for creativeity - UNIST)
