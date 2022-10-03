@@ -14,7 +14,7 @@ Currently, I'm an M.S. & Ph.D. student at Laboratory of Advanced Imaging Technol
 ## Presentation
 |Title|Slide|Video|
 |------|---|---|
-|Come-Closer-Diffuse-Faster: Accelerating Conditional Diffusion Models for Inverse Problems through Stochastic Contraction|File(https://docs.google.com/presentation/d/15cMU656TrXvlJeF1BamSmH4KPbd7a317/edit?usp=sharing&ouid=103870560005201081411&rtpof=true&sd=true)|Link(https://www.youtube.com/watch?v=HJ0AHZuGSZI)|
+|Come-Closer-Diffuse-Faster: Accelerating Conditional Diffusion Models for Inverse Problems through Stochastic Contraction|[File](https://docs.google.com/presentation/d/15cMU656TrXvlJeF1BamSmH4KPbd7a317/edit?usp=sharing&ouid=103870560005201081411&rtpof=true&sd=true)|Link(https://www.youtube.com/watch?v=HJ0AHZuGSZI)|
 |Improving GAN Equilibrium by Raising Spatial Awareness|추가예정|추가예정|
 |Visual attribute transfer through deep image analogy|추가예정|Private|
 |MMD GAN: Towards Deeper Understanding of Moment Matching Network|추가예정|Private|
