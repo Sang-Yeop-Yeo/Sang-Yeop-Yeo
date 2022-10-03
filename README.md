@@ -28,7 +28,8 @@ Currently, I'm a M.S. & Ph.D. student at Laboratory of Advanced Imaging Technolo
 <summary>:point_up_2:Click for details</summary>
 <div markdown="1">
 
-안녕
+![image](https://user-images.githubusercontent.com/84113554/193588149-d66f62fa-a227-4b39-8abc-36d7de7cc2df.png)
+![image](https://user-images.githubusercontent.com/84113554/193588731-ae9923fd-968c-4379-b4f6-f1a47166beee.png)
 
 </div>
 </details>
