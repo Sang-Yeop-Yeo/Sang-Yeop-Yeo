@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=B6E880&height=150&section=header&text=Hello!%20this%20is%20my%20portfolio&fontSize=60&rotate=0&fontAlign=50&fontAlignY=50&descSize=25&descAlign=70&descAlignY=10&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=rect&color=808080&height=150&section=header&text=Hello!%20this%20is%20my%20portfolio&fontSize=60&rotate=0&fontAlign=50&fontAlignY=50&descSize=25&descAlign=70&descAlignY=10&fontColor=d6ace6)
 
 ## Notice
 Sorry. Most of my codes are private as they are used for my research. If you need my code, please contact me by email.
