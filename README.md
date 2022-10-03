@@ -8,6 +8,10 @@ I'm sangyeop. I obtained B.S.(2021) degree from Electrical and Computer Engineer
 
 Currently, I'm a M.S. & Ph.D. student at Laboratory of Advanced Imaging Technology (LAIT) in the Ulsan National Institute of Science and Technology (UNIST), under the supervision of Prof.Jaejun Yoo. I'm interested in optimization and generative models. If you have a question about me, you can freely ask me anytime.
 
+## Tech Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C%20(programming%20language)-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=dokcer&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
+
+
 ## Research Interests
 * Generative models
 * Lightweight generative models
