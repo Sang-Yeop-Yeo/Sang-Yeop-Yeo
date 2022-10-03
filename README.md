@@ -25,7 +25,7 @@ Currently, I'm a M.S. & Ph.D. student at Laboratory of Advanced Imaging Technolo
 
 ## Study (Paper reviews)
 <details>
-<summary>Click for details</summary>
+<summary>:point_up_2:Click for details</summary>
 <div markdown="1">
 
 안녕
