@@ -49,18 +49,18 @@ Currently, I'm a M.S. & Ph.D. student at Laboratory of Advanced Imaging Technolo
 |Deep Image Prior|[File](https://docs.google.com/presentation/d/196asIhtbejvRo9pMeOBSfLyz6uzfDtQe/edit?usp=sharing&ouid=107867469252759244961&rtpof=true&sd=true)|-|
 
 ## Experience
-### 창의자율과제 - 울산과학기술원(Self-research challenges program for creativeity - UNIST)
+### 창의자율과제 - 울산과학기술원 (Self-research challenges program for creativeity - UNIST)
 Topic: Developing lightweight generative models
 
-### 스마일게이트 멤버쉽 - 스마일게이트 퓨쳐랩(Smilegate Membership - Smilegate Future LAB)
+### 스마일게이트 멤버쉽 - 스마일게이트 퓨쳐랩 (Smilegate Membership - Smilegate Future LAB)
 Topic: Face style editing via GAN 
 
 Team profile: https://github.com/SGM-StyleTransfer
 
-### AI Challengers Program - U교육혁신센터(AI Challengers Program - U Innovative Education Center)
+### AI Challengers Program - U교육혁신센터 (AI Challengers Program - U Innovative Education Center)
 Topic: Interactive video style transfer
 
-### BTS 실전문제연구팀 - 미래기술혁신 융합형 인재양성 사업단(Brain To Society Industry Friendly Research Project - Future Technology Innovation Convergence Talent Training Center)
+### BTS 실전문제연구팀 - 미래기술혁신 융합형 인재양성 사업단 (Brain To Society Industry Friendly Research Project - Future Technology Innovation Convergence Talent Training Center)
 Topic: Disease detection via medical image analysis
 
 ## Conference
