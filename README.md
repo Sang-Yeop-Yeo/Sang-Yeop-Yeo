@@ -1,5 +1,5 @@
-### Hi guys! 👋
-=============
+## Hi guys! 👋
+
 I'm sangyeop. I obtained B.S.(2021) degree from Electrical and Computer Engineering at Ajou university.
 
 Currently, I'm an M.S. & Ph.D. student at Laboratory of Advanced Imaging Technology (LAIT) in the Ulsan National Institute of Science and Technology (UNIST), under the supervision of Prof.Jaejun Yoo. I'm interested in optimization and generative models. If you have a question about me, you can freely ask me anytime.
