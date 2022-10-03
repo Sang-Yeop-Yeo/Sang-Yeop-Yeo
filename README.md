@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=400&section=header&text=portfolio&desc=sangyeop&fontSize=30&rotate=40&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=400&section=header&text=portfolio&desc=sangyeop&fontSize=30&rotate=30&fontAlign=70&
+fontAlignY=60)
 
 
 ## Notice
