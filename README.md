@@ -21,6 +21,26 @@ Currently, I'm an M.S. & Ph.D. student at Laboratory of Advanced Imaging Technol
 |Generative Moment Matching Networks|추가예정|Private|
 |GANs can play Lottery Tickets too|추가예정|Private|
 
+## Experience
+### 창의자율과제 - 울산과학기술원(Self-research challenges program for creativeity - UNIST)
+Topic: Developing lightweight generative models
+
+### 스마일게이트 멤버쉽 - 스마일게이트 퓨쳐랩(Smilegate Membership - Smilegate Future LAB)
+Topic: Face style editing via GAN
+
+### AI Challengers Program - U교육혁신센터(AI Challengers Program - U Innovative Education Center)
+Topic: Interactive video style transfer
+
+### BTS 실전문제연구팀 - 미래기술혁신 융합형 인재양성 사업단(Brain To Society Industry Friendly Research Project - Future Technology Innovation Convergence Talent Training Center)
+Topic: Disease detection via medical image analysis
+
+## Conference
+### International Conferences
+
+### Domestic Conferences
+
+## Contact
+e-mail: sosick377@unist.ac.kr
 
 <!--
 **Sang-Yeop-Yeo/Sang-Yeop-Yeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
