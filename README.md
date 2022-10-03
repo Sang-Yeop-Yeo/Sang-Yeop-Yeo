@@ -9,9 +9,15 @@ I'm sangyeop. I obtained B.S.(2021) degree from Electrical and Computer Engineer
 Currently, I'm a M.S. & Ph.D. student at Laboratory of Advanced Imaging Technology (LAIT) in the Ulsan National Institute of Science and Technology (UNIST), under the supervision of Prof.Jaejun Yoo. I'm interested in optimization and generative models. If you have a question about me, you can freely ask me anytime.
 
 ## Research Interests
-- Generative models
-- Lightweight generative models
-- Optimization
+* Generative models
+* Lightweight generative models
+* Optimization
+
+## Organization
+* LAIT - https://github.com/LAIT-CVLab  🤔Most of codes are private
+* Smilegate Membership - https://github.com/SGM-StyleTransfer
+* FullStackDL (Self study) - https://github.com/FullStackDL-Study
+
 
 ## Presentation
 |Title|Slide|Video|
@@ -28,7 +34,8 @@ Currently, I'm a M.S. & Ph.D. student at Laboratory of Advanced Imaging Technolo
 Topic: Developing lightweight generative models
 
 ### 스마일게이트 멤버쉽 - 스마일게이트 퓨쳐랩(Smilegate Membership - Smilegate Future LAB)
-Topic: Face style editing via GAN
+Topic: Face style editing via GAN 
+
 Team profile: https://github.com/SGM-StyleTransfer
 
 ### AI Challengers Program - U교육혁신센터(AI Challengers Program - U Innovative Education Center)
