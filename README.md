@@ -65,7 +65,15 @@ My paper is under review. I will publish my paper on arXiv soon.
 
 ### Domestic Conferences
 **Sangyeop Yeo** and Jaejun Yoo, "_Do Not Compress GANs, Find a Hidden Network in the Generator_", The Institute of Electronics and Information Engineers (IEIE), June 2022. **(Poster Session)**
+<details>
+<summary>:point_up_2:Click for details</summary>
+<div markdown="1">
+
 ![image](https://user-images.githubusercontent.com/84113554/193573093-add15e6a-6d9b-4c37-9869-ae39a809fade.png)
+
+</div>
+</details>
+
 
 
 ## Contact
