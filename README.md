@@ -42,7 +42,7 @@ Currently, I'm a M.S. & Ph.D. student at Laboratory of Advanced Imaging Technolo
 |MMD GAN: Towards Deeper Understanding of Moment Matching Network|[File](https://docs.google.com/presentation/d/12V0VHQxSAKsgfluVbk8GaNm-CgtmHHGv/edit?usp=sharing&ouid=107867469252759244961&rtpof=true&sd=true)|Private|
 |Generative Moment Matching Networks|[File](https://docs.google.com/presentation/d/18ZVvnGpKsSURdo_UuNOppKr2x5YD8fgH/edit?usp=sharing&ouid=107867469252759244961&rtpof=true&sd=true)|Private|
 |GANs can play Lottery Tickets too|-|Private|
-|Revisiting Random Channel Pruning for Neural Network Compression|[File]https://docs.google.com/presentation/d/15WkNHDOLQ1ZHq6zn9qG0opNqdeUnPQ6U/edit?usp=sharing&ouid=107867469252759244961&rtpof=true&sd=true)|Private|
+|Revisiting Random Channel Pruning for Neural Network Compression|[File](https://docs.google.com/presentation/d/15WkNHDOLQ1ZHq6zn9qG0opNqdeUnPQ6U/edit?usp=sharing&ouid=107867469252759244961&rtpof=true&sd=true)|Private|
 |Revisiting Discriminator in GAN Compression - A Generator-discriminator Cooperative Compression Scheme|[File](https://docs.google.com/presentation/d/1x9hfJaC4HUVcEG6ucCEsAMlzo1qLSI8y/edit?usp=sharing&ouid=107867469252759244961&rtpof=true&sd=true)|-|
 |Content-Aware GAN Compression|[File](https://docs.google.com/presentation/d/10OSjX5MaLDabxmK5YPFCeUZjf4vXubXr/edit?usp=sharing&ouid=107867469252759244961&rtpof=true&sd=true)|-|
 |Deep Image Prior|[File](https://docs.google.com/presentation/d/196asIhtbejvRo9pMeOBSfLyz6uzfDtQe/edit?usp=sharing&ouid=107867469252759244961&rtpof=true&sd=true)|-|
