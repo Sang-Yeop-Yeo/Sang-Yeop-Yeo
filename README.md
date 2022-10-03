@@ -12,11 +12,14 @@ Currently, I'm an M.S. & Ph.D. student at Laboratory of Advanced Imaging Technol
 - Optimization
 
 ## Presentation
-|제목|내용|설명|
+|Title|Slide|Video|
 |------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|Come-Closer-Diffuse-Faster: Accelerating Conditional Diffusion Models for Inverse Problems through Stochastic Contraction|File(https://docs.google.com/presentation/d/15cMU656TrXvlJeF1BamSmH4KPbd7a317/edit?usp=sharing&ouid=103870560005201081411&rtpof=true&sd=true)|Link(https://www.youtube.com/watch?v=HJ0AHZuGSZI)|
+|Improving GAN Equilibrium by Raising Spatial Awareness|추가예정|추가예정|
+|Visual attribute transfer through deep image analogy|추가예정|Private|
+|MMD GAN: Towards Deeper Understanding of Moment Matching Network|추가예정|Private|
+|Generative Moment Matching Networks|추가예정|Private|
+|GANs can play Lottery Tickets too|추가예정|Private|
 
 
 <!--
