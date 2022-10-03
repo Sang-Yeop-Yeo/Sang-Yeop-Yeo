@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=B6E880&height=300&section=header&text=portfolio&fontSize=70&rotate=19&fontAlign=70&fontAlignY=30&desc=Sangyeop's&descSize=25&descAlign=70&descAlignY=10)
+![header](https://capsule-render.vercel.app/api?type=slice&color=B6E880&height=300&section=header&text=portfolio&fontSize=70&rotate=19&fontAlign=70&fontAlignY=30&desc= &descSize=25&descAlign=70&descAlignY=10)
 
 
 ## Notice
