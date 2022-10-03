@@ -23,6 +23,15 @@ Currently, I'm a M.S. & Ph.D. student at Laboratory of Advanced Imaging Technolo
 * Smilegate Membership - https://github.com/SGM-StyleTransfer
 * FullStackDL (Self study) - https://github.com/FullStackDL-Study
 
+## Study (Paper reviews)
+<details>
+<summary>Click for details</summary>
+<div markdown="1">
+
+안녕
+
+</div>
+</details>
 
 ## Presentation
 |Title|Slide|Video|
