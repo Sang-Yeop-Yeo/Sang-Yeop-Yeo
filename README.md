@@ -29,6 +29,7 @@ Topic: Developing lightweight generative models
 
 ### 스마일게이트 멤버쉽 - 스마일게이트 퓨쳐랩(Smilegate Membership - Smilegate Future LAB)
 Topic: Face style editing via GAN
+Team profile: https://github.com/SGM-StyleTransfer
 
 ### AI Challengers Program - U교육혁신센터(AI Challengers Program - U Innovative Education Center)
 Topic: Interactive video style transfer
@@ -38,10 +39,13 @@ Topic: Disease detection via medical image analysis
 
 ## Conference
 ### International Conferences
+My paper is under review. I will publish my paper on arXiv soon.
 
 
 ### Domestic Conferences
-Sangyeop Yeo and Jaejun Yoo, "Do Not Compress GANs, Find a Hidden Network in the Generator", The Institute of Electronics and Information Engineers (IEIE), June 2022. (Poster Session)
+**Sangyeop Yeo** and Jaejun Yoo, "_Do Not Compress GANs, Find a Hidden Network in the Generator_", The Institute of Electronics and Information Engineers (IEIE), June 2022. **(Poster Session)**
+![image](https://user-images.githubusercontent.com/84113554/193573093-add15e6a-6d9b-4c37-9869-ae39a809fade.png)
+
 
 ## Contact
 e-mail: sosick377@unist.ac.kr
