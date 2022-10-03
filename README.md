@@ -39,7 +39,9 @@ Topic: Disease detection via medical image analysis
 ## Conference
 ### International Conferences
 
+
 ### Domestic Conferences
+Sangyeop Yeo and Jaejun Yoo, "Do Not Compress GANs, Find a Hidden Network in the Generator", The Institute of Electronics and Information Engineers (IEIE), June 2022. (Poster Session)
 
 ## Contact
 e-mail: sosick377@unist.ac.kr
