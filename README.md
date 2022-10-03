@@ -15,6 +15,7 @@ Currently, I'm a M.S. & Ph.D. student at Laboratory of Advanced Imaging Technolo
 
 ## Organization
 * LAIT - https://github.com/LAIT-CVLab  🤔Most of codes are private
+* LAIT-Study - https://github.com/LAIT-Study
 * Smilegate Membership - https://github.com/SGM-StyleTransfer
 * FullStackDL (Self study) - https://github.com/FullStackDL-Study
 
