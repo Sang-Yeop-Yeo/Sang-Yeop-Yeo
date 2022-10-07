@@ -81,7 +81,7 @@ Topic: Disease detection via medical image analysis
 
 ## Conference
 ### International Conferences
-My paper is under review. I will publish my paper on arXiv soon.
+My paper is under revision. I will publish my paper on arXiv soon.
 
 
 ### Domestic Conferences
